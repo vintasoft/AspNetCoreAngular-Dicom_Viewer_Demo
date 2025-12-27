@@ -28,9 +28,9 @@ The project demonstrates how to view DICOM images, measure DICOM image, view DIC
 
 
 ## Screenshot
-<img src="vintasoft_aspnet.core_angular-document_editor_demo.png" title="VintaSoft Document Editor Demo for ASP.NET Core with Angular"><br />
-<img src="vintasoft_aspnet.core_angular-document_editor_demo-dicom_info.png" title="VintaSoft Document Editor Demo for ASP.NET Core with Angular - DICOM info"><br />
-<img src="vintasoft_aspnet.core_angular-document_editor_demo-dicom_mpr.png" title="VintaSoft Document Editor Demo for ASP.NET Core with Angular - DICOM MPR"><br />
+<img src="vintasoft_aspnet.core_angular-dicom_viewer_demo.png" title="VintaSoft DICOM Viewer Demo for ASP.NET Core with Angular"><br />
+<img src="vintasoft_aspnet.core_angular-dicom_viewer_demo-dicom_info.png" title="VintaSoft DICOM Viewer Demo for ASP.NET Core with Angular - DICOM info"><br />
+<img src="vintasoft_aspnet.core_angular-dicom_viewer_demo-dicom_mpr.png" title="VintaSoft DICOM Viewer Demo for ASP.NET Core with Angular - DICOM MPR"><br />
 
 
 ## Usage
